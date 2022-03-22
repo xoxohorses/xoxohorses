@@ -1,6 +1,8 @@
 # Welcome 👋! Nice to meet you.
 
-I'm an SF based full stack software engineer with a background in analytical thinking who loves to build performant, accessible, and pleasant-to-use tools.
+I'm an SF based full stack software engineer with a background in analytical thinking who loves to build performant, accessible, and pleasant-to-use tools. If you know of opportunities for a developer between 1-3 YOE, please send them my way!
+
+[https://www.linkedin.com/in/juliemyu/](https://www.linkedin.com/in/juliemyu/)
 
 ## Tech Stack
 ### Frontend  
@@ -25,18 +27,3 @@ _A React based site for navigating styles, related products, questions & answers
 _A microservice supplying product data to retail site_
 
 ![architecture-diagram](https://user-images.githubusercontent.com/69382434/159388184-0436b53c-4f2b-4f57-bfeb-660075f6d4d1.png)
-
-<!--
-**xoxohorses/xoxohorses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
