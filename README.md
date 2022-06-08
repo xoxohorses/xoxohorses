@@ -1,7 +1,5 @@
 # Welcome 👋! Nice to meet you.
 
-I'm an SF based full stack software engineer with a background in analytical thinking who loves to build performant, accessible, and pleasant-to-use tools. If you know of opportunities for a developer between 1-3 YOE, please send them my way!
-
 [https://www.linkedin.com/in/juliemyu/](https://www.linkedin.com/in/juliemyu/)
 
 ## Tech Stack
